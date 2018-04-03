@@ -4045,7 +4045,7 @@ tbody.collapse.in {
     display: inline-block;
     max-width: 100%;
     height: calc(2.5rem - 2px);
-    padding: .375rem 1.75rem .375rem .75rem;
+    padding: .375rem .75rem .375rem 1.75rem;
     padding-Left: .75rem\9;
     color: #55595c;
     vertical-align: middle;
